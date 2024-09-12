@@ -47,41 +47,41 @@
 
 
 
-# # Review
-# create variables for the following :
-# 1. age
-age = 18
-# 2. name
-name = "Victor"
-# 3. song
-song = "Walking on a Dream"
-# 4. food
-food = "tacos"
-# 5. number
-number = 1000
+# # # Review
+# # create variables for the following :
+# # 1. age
+# age = 18
+# # 2. name
+# name = "Victor"
+# # 3. song
+# song = "Walking on a Dream"
+# # 4. food
+# food = "tacos"
+# # 5. number
+# number = 1000
 
-# #now include the variables you just made print in the following...
-
-
-# Once upon a time, there was a [age] old coder named [name].
-print("Once upon a time, there was a " + str(age) + " old coder named " + name +".")
-
-# [name] liked to hum the song [song] while coding. It was so annoying that their teammates would throw [food] until [name] would stop singing.
-print( name + " liked to hum the song " + song + " while coding. It was so annoying that their teammates would throw " + food + " until " + name + " would stop singing")
-
-# Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
-print("Still, " + name + " was the best coder on the team and could write " + str(number) + " lines of code every day. Maybe " + song + " was " + name + "'s secret power?")
+# # #now include the variables you just made print in the following...
 
 
-number1 = 100
-number2 = 200
-number3 = 300
-number4 = 400
-number5 = 500
+# # Once upon a time, there was a [age] old coder named [name].
+# print("Once upon a time, there was a " + str(age) + " old coder named " + name +".")
 
-# print(number1, number2, number3, number4, number5)
-# f strings
-print(f"{number1}, {number2}, {number3}, {number4}, {number5}")
+# # [name] liked to hum the song [song] while coding. It was so annoying that their teammates would throw [food] until [name] would stop singing.
+# print( name + " liked to hum the song " + song + " while coding. It was so annoying that their teammates would throw " + food + " until " + name + " would stop singing")
+
+# # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
+# print("Still, " + name + " was the best coder on the team and could write " + str(number) + " lines of code every day. Maybe " + song + " was " + name + "'s secret power?")
+
+
+# number1 = 100
+# number2 = 200
+# number3 = 300
+# number4 = 400
+# number5 = 500
+
+# # print(number1, number2, number3, number4, number5)
+# # f strings
+# print(f"{number1}, {number2}, {number3}, {number4}, {number5}")
 ##########################################################################################
 
 
@@ -118,13 +118,13 @@ print(f"{number1}, {number2}, {number3}, {number4}, {number5}")
 # Correcting Invalid Names: Below are some invalid names. Correct them according to the rules:
 
 
-# 1st_name
-# last name
-# email@address
-# percent%
-# variable#name
-# O
-# list
+# first_name
+# last_name
+# email_address
+# percent
+# variable_name
+# zero
+# list_of_numbers
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -145,10 +145,10 @@ print(f"{number1}, {number2}, {number3}, {number4}, {number5}")
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# first_variable
+# email_address
+# percentage
+# irodocicludus
 
 
 
